@@ -1,0 +1,9 @@
+appointment_id,patient_id,doctor_id,appointmentdate,statusofpatient
+1,1,101,"2024-10-20 10:00:00",completed
+2,2,105,"2024-11-20 11:00:00",scheduled
+3,3,106,"2024-11-28 18:30:00",scheduled
+4,4,103,"2024-12-25 16:45:00",scheduled
+5,5,105,"2024-10-15 10:30:00",completed
+6,6,102,"2024-12-20 16:00:00",cancelled
+7,7,104,"2024-12-15 11:00:00",scheduled
+8,8,101,"2024-11-30 17:30:00",scheduled

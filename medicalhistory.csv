@@ -1,0 +1,9 @@
+record_id,patient_id,doctor_id,diagnosis,prescription,dateofvisit
+1,1,101,hypertension,"medication a",2024-10-10
+2,2,105,"common cold",dolo-650,2024-11-15
+3,3,106,"hand fracture","pain relievers",2024-11-25
+4,4,103,migrane,naproxen,2024-12-20
+5,5,105,"hearing loss",antibiotics,2024-10-05
+6,6,102,"skin allergy",cephalexin,2024-12-15
+7,7,104,asthma,ventolin,2024-12-11
+8,8,101,"heart attack",surgery,2024-11-13
